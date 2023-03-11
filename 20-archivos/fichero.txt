@@ -1,0 +1,3 @@
+hola mundo
+desde el fichero
+txtsoy un texto metido desde phpsoy un texto metido desde php
